@@ -8,4 +8,4 @@ Added List support
 add rotaing/proxy support
 
 
-## Version 1.1.0:
+## Version 1.1.0
